@@ -1,0 +1,11 @@
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\bin\Debug\net8.0\Pedidos.Domain.deps.json
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\bin\Debug\net8.0\Pedidos.Domain.dll
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\bin\Debug\net8.0\Pedidos.Domain.pdb
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.AssemblyInfo.cs
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.dll
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\obj\Debug\net8.0\refint\Pedidos.Domain.dll
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.pdb
+C:\Users\wilso\source\repos\ApiPedidos\Pedidos.Domain\obj\Debug\net8.0\ref\Pedidos.Domain.dll
